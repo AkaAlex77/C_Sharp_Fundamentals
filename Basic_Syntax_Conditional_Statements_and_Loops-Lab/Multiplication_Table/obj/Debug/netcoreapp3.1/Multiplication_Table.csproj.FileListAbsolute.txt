@@ -1,0 +1,13 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table/bin/Debug/netcoreapp3.1/Multiplication_Table.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table/bin/Debug/netcoreapp3.1/Multiplication_Table.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table/bin/Debug/netcoreapp3.1/Multiplication_Table.runtimeconfig.dev.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table/bin/Debug/netcoreapp3.1/Multiplication_Table.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table/bin/Debug/netcoreapp3.1/Multiplication_Table.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table/obj/Debug/netcoreapp3.1/Multiplication_Table.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table/obj/Debug/netcoreapp3.1/Multiplication_Table.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table/obj/Debug/netcoreapp3.1/Multiplication_Table.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table/obj/Debug/netcoreapp3.1/Multiplication_Table.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table/obj/Debug/netcoreapp3.1/Multiplication_Table.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table/obj/Debug/netcoreapp3.1/Multiplication_Table.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table/obj/Debug/netcoreapp3.1/Multiplication_Table.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table/obj/Debug/netcoreapp3.1/Multiplication_Table.genruntimeconfig.cache

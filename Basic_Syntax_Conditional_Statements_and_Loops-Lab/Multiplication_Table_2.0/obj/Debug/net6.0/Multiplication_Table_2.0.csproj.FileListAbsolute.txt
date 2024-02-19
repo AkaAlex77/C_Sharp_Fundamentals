@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table_2.0/bin/Debug/net6.0/Multiplication_Table_2.0
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table_2.0/bin/Debug/net6.0/Multiplication_Table_2.0.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table_2.0/bin/Debug/net6.0/Multiplication_Table_2.0.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table_2.0/bin/Debug/net6.0/Multiplication_Table_2.0.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table_2.0/bin/Debug/net6.0/Multiplication_Table_2.0.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table_2.0/obj/Debug/net6.0/Multiplication_Table_2.0.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table_2.0/obj/Debug/net6.0/Multiplication_Table_2.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table_2.0/obj/Debug/net6.0/Multiplication_Table_2.0.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table_2.0/obj/Debug/net6.0/Multiplication_Table_2.0.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table_2.0/obj/Debug/net6.0/Multiplication_Table_2.0.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table_2.0/obj/Debug/net6.0/Multiplication_Table_2.0.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table_2.0/obj/Debug/net6.0/refint/Multiplication_Table_2.0.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table_2.0/obj/Debug/net6.0/Multiplication_Table_2.0.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table_2.0/obj/Debug/net6.0/Multiplication_Table_2.0.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Multiplication_Table_2.0/obj/Debug/net6.0/ref/Multiplication_Table_2.0.dll

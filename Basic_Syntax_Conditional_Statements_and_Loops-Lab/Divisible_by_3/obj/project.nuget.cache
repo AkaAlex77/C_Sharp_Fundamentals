@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tNnK2D+3sO6r4I1zPrtFc7AmDs/S1ST+E3DSu7+0ZZX5dhhq25hzO+WQvkrU2AFmxdGxSt3sX2MVjCcHibvz/Q==",
+  "success": true,
+  "projectFilePath": "/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Divisible_by_3/Divisible_by_3.csproj",
+  "expectedPackageFiles": [
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SOZyMHCGuydkycep2k8usZglgIP3WhuopdC1ibRlEFgWUzZesEtUENudRHjGJeg9N4BW+sYNzplWhUMAwUDkIg==",
+  "success": true,
+  "projectFilePath": "/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Foreign_Languages/Foreign_Languages.csproj",
+  "expectedPackageFiles": [
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

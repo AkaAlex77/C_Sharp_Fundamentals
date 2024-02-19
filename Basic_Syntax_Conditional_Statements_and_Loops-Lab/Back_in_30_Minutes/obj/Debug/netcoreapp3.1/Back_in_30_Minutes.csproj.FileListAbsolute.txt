@@ -1,0 +1,14 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Back_in_30_Minutes/bin/Debug/netcoreapp3.1/Back_in_30_Minutes
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Back_in_30_Minutes/bin/Debug/netcoreapp3.1/Back_in_30_Minutes.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Back_in_30_Minutes/bin/Debug/netcoreapp3.1/Back_in_30_Minutes.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Back_in_30_Minutes/bin/Debug/netcoreapp3.1/Back_in_30_Minutes.runtimeconfig.dev.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Back_in_30_Minutes/bin/Debug/netcoreapp3.1/Back_in_30_Minutes.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Back_in_30_Minutes/bin/Debug/netcoreapp3.1/Back_in_30_Minutes.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Back_in_30_Minutes/obj/Debug/netcoreapp3.1/Back_in_30_Minutes.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Back_in_30_Minutes/obj/Debug/netcoreapp3.1/Back_in_30_Minutes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Back_in_30_Minutes/obj/Debug/netcoreapp3.1/Back_in_30_Minutes.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Back_in_30_Minutes/obj/Debug/netcoreapp3.1/Back_in_30_Minutes.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Back_in_30_Minutes/obj/Debug/netcoreapp3.1/Back_in_30_Minutes.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Back_in_30_Minutes/obj/Debug/netcoreapp3.1/Back_in_30_Minutes.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Back_in_30_Minutes/obj/Debug/netcoreapp3.1/Back_in_30_Minutes.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Back_in_30_Minutes/obj/Debug/netcoreapp3.1/Back_in_30_Minutes.genruntimeconfig.cache

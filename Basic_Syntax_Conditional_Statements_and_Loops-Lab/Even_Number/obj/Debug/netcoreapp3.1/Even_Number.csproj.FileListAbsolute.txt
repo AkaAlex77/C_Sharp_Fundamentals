@@ -1,0 +1,14 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Even_Number/bin/Debug/netcoreapp3.1/Even_Number.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Even_Number/bin/Debug/netcoreapp3.1/Even_Number.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Even_Number/bin/Debug/netcoreapp3.1/Even_Number.runtimeconfig.dev.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Even_Number/bin/Debug/netcoreapp3.1/Even_Number.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Even_Number/bin/Debug/netcoreapp3.1/Even_Number.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Even_Number/obj/Debug/netcoreapp3.1/Even_Number.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Even_Number/obj/Debug/netcoreapp3.1/Even_Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Even_Number/obj/Debug/netcoreapp3.1/Even_Number.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Even_Number/obj/Debug/netcoreapp3.1/Even_Number.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Even_Number/obj/Debug/netcoreapp3.1/Even_Number.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Even_Number/obj/Debug/netcoreapp3.1/Even_Number.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Even_Number/obj/Debug/netcoreapp3.1/Even_Number.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Even_Number/obj/Debug/netcoreapp3.1/Even_Number.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Even_Number/bin/Debug/netcoreapp3.1/Even_Number

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4JdgUB8TInTrPaQNwsd71zHm93wrysr/0dpqyz9Im0ugt4IJTZkuZFaW3PGNIU9zOyFmG5YdaskCS/98Hb8rEQ==",
+  "success": true,
+  "projectFilePath": "/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Back_in_30_Minutes/Back_in_30_Minutes.csproj",
+  "expectedPackageFiles": [
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

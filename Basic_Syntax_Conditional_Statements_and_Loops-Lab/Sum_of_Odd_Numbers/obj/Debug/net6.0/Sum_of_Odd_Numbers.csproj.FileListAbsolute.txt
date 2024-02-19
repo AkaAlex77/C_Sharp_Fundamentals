@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Sum_of_Odd_Numbers/bin/Debug/net6.0/Sum_of_Odd_Numbers
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Sum_of_Odd_Numbers/bin/Debug/net6.0/Sum_of_Odd_Numbers.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Sum_of_Odd_Numbers/bin/Debug/net6.0/Sum_of_Odd_Numbers.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Sum_of_Odd_Numbers/bin/Debug/net6.0/Sum_of_Odd_Numbers.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Sum_of_Odd_Numbers/bin/Debug/net6.0/Sum_of_Odd_Numbers.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Sum_of_Odd_Numbers/obj/Debug/net6.0/Sum_of_Odd_Numbers.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Sum_of_Odd_Numbers/obj/Debug/net6.0/Sum_of_Odd_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Sum_of_Odd_Numbers/obj/Debug/net6.0/Sum_of_Odd_Numbers.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Sum_of_Odd_Numbers/obj/Debug/net6.0/Sum_of_Odd_Numbers.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Sum_of_Odd_Numbers/obj/Debug/net6.0/Sum_of_Odd_Numbers.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Sum_of_Odd_Numbers/obj/Debug/net6.0/Sum_of_Odd_Numbers.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Sum_of_Odd_Numbers/obj/Debug/net6.0/refint/Sum_of_Odd_Numbers.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Sum_of_Odd_Numbers/obj/Debug/net6.0/Sum_of_Odd_Numbers.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Sum_of_Odd_Numbers/obj/Debug/net6.0/Sum_of_Odd_Numbers.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Sum_of_Odd_Numbers/obj/Debug/net6.0/ref/Sum_of_Odd_Numbers.dll

@@ -1,0 +1,13 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Foreign_Languages/bin/Debug/netcoreapp3.1/Foreign_Languages.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Foreign_Languages/bin/Debug/netcoreapp3.1/Foreign_Languages.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Foreign_Languages/bin/Debug/netcoreapp3.1/Foreign_Languages.runtimeconfig.dev.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Foreign_Languages/bin/Debug/netcoreapp3.1/Foreign_Languages.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Foreign_Languages/bin/Debug/netcoreapp3.1/Foreign_Languages.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Foreign_Languages/obj/Debug/netcoreapp3.1/Foreign_Languages.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Foreign_Languages/obj/Debug/netcoreapp3.1/Foreign_Languages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Foreign_Languages/obj/Debug/netcoreapp3.1/Foreign_Languages.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Foreign_Languages/obj/Debug/netcoreapp3.1/Foreign_Languages.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Foreign_Languages/obj/Debug/netcoreapp3.1/Foreign_Languages.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Foreign_Languages/obj/Debug/netcoreapp3.1/Foreign_Languages.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Foreign_Languages/obj/Debug/netcoreapp3.1/Foreign_Languages.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Lab/Foreign_Languages/obj/Debug/netcoreapp3.1/Foreign_Languages.genruntimeconfig.cache
