@@ -1,0 +1,14 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vending_Machine/bin/Debug/netcoreapp3.1/Vending_Machine
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vending_Machine/bin/Debug/netcoreapp3.1/Vending_Machine.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vending_Machine/bin/Debug/netcoreapp3.1/Vending_Machine.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vending_Machine/bin/Debug/netcoreapp3.1/Vending_Machine.runtimeconfig.dev.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vending_Machine/bin/Debug/netcoreapp3.1/Vending_Machine.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vending_Machine/bin/Debug/netcoreapp3.1/Vending_Machine.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vending_Machine/obj/Debug/netcoreapp3.1/Vending_Machine.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vending_Machine/obj/Debug/netcoreapp3.1/Vending_Machine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vending_Machine/obj/Debug/netcoreapp3.1/Vending_Machine.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vending_Machine/obj/Debug/netcoreapp3.1/Vending_Machine.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vending_Machine/obj/Debug/netcoreapp3.1/Vending_Machine.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vending_Machine/obj/Debug/netcoreapp3.1/Vending_Machine.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vending_Machine/obj/Debug/netcoreapp3.1/Vending_Machine.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vending_Machine/obj/Debug/netcoreapp3.1/Vending_Machine.genruntimeconfig.cache

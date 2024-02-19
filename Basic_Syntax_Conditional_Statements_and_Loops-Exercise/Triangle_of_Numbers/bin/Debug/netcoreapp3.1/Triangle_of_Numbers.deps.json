@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Triangle_of_Numbers/1.0.0": {
+        "runtime": {
+          "Triangle_of_Numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Triangle_of_Numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

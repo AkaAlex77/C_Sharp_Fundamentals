@@ -1,0 +1,14 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Orders/bin/Debug/netcoreapp3.1/Orders
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Orders/bin/Debug/netcoreapp3.1/Orders.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Orders/bin/Debug/netcoreapp3.1/Orders.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Orders/bin/Debug/netcoreapp3.1/Orders.runtimeconfig.dev.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Orders/bin/Debug/netcoreapp3.1/Orders.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Orders/bin/Debug/netcoreapp3.1/Orders.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Orders/obj/Debug/netcoreapp3.1/Orders.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Orders/obj/Debug/netcoreapp3.1/Orders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Orders/obj/Debug/netcoreapp3.1/Orders.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Orders/obj/Debug/netcoreapp3.1/Orders.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Orders/obj/Debug/netcoreapp3.1/Orders.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Orders/obj/Debug/netcoreapp3.1/Orders.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Orders/obj/Debug/netcoreapp3.1/Orders.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Orders/obj/Debug/netcoreapp3.1/Orders.genruntimeconfig.cache

@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{4F716D9E-357C-4C8A-98F4-5E2A167C606A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Rage__Expenses FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Rage_Expenses/Program.cs">
+    <Files>
+      <File FileName="Rage_Expenses/Program.cs" Line="15" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Basic_Syntax_Conditional_Statements_and_Loops-Exercise" expanded="True">
+            <Node name="Rage_Expenses" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Orders PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Triangle__of__Numbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Divison FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vacation/Program.cs" relfile="Vacation/Program.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Strong__Number FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Vacation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Basic__Syntax__Conditional__Statements__and__Loops-Exercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Vending__Machine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Padawan__Equipment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Print__and__Sum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Padawan_Equipment/Program.cs" line="14" column="19" endLine="14" endColumn="100" offsetX="-1" offsetY="-1" expression="sum" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Login PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

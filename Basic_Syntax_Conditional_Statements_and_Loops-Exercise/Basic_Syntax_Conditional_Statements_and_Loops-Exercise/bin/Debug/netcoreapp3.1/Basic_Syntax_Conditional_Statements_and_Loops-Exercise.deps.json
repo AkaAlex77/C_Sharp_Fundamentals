@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Basic_Syntax_Conditional_Statements_and_Loops-Exercise/1.0.0": {
+        "runtime": {
+          "Basic_Syntax_Conditional_Statements_and_Loops-Exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Basic_Syntax_Conditional_Statements_and_Loops-Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

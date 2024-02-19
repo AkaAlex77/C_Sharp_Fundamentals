@@ -1,0 +1,13 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Login/bin/Debug/netcoreapp3.1/Login.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Login/bin/Debug/netcoreapp3.1/Login.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Login/bin/Debug/netcoreapp3.1/Login.runtimeconfig.dev.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Login/bin/Debug/netcoreapp3.1/Login.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Login/bin/Debug/netcoreapp3.1/Login.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Login/obj/Debug/netcoreapp3.1/Login.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Login/obj/Debug/netcoreapp3.1/Login.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Login/obj/Debug/netcoreapp3.1/Login.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Login/obj/Debug/netcoreapp3.1/Login.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Login/obj/Debug/netcoreapp3.1/Login.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Login/obj/Debug/netcoreapp3.1/Login.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Login/obj/Debug/netcoreapp3.1/Login.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Login/obj/Debug/netcoreapp3.1/Login.genruntimeconfig.cache

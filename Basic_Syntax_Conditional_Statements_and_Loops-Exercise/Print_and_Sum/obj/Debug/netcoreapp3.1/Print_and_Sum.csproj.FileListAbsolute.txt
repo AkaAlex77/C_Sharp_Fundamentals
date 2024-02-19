@@ -1,0 +1,13 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Print_and_Sum/bin/Debug/netcoreapp3.1/Print_and_Sum.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Print_and_Sum/bin/Debug/netcoreapp3.1/Print_and_Sum.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Print_and_Sum/bin/Debug/netcoreapp3.1/Print_and_Sum.runtimeconfig.dev.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Print_and_Sum/bin/Debug/netcoreapp3.1/Print_and_Sum.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Print_and_Sum/bin/Debug/netcoreapp3.1/Print_and_Sum.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Print_and_Sum/obj/Debug/netcoreapp3.1/Print_and_Sum.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Print_and_Sum/obj/Debug/netcoreapp3.1/Print_and_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Print_and_Sum/obj/Debug/netcoreapp3.1/Print_and_Sum.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Print_and_Sum/obj/Debug/netcoreapp3.1/Print_and_Sum.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Print_and_Sum/obj/Debug/netcoreapp3.1/Print_and_Sum.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Print_and_Sum/obj/Debug/netcoreapp3.1/Print_and_Sum.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Print_and_Sum/obj/Debug/netcoreapp3.1/Print_and_Sum.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Print_and_Sum/obj/Debug/netcoreapp3.1/Print_and_Sum.genruntimeconfig.cache

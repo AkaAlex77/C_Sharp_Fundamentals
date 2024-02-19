@@ -1,0 +1,14 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vacation/bin/Debug/netcoreapp3.1/Vacation
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vacation/bin/Debug/netcoreapp3.1/Vacation.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vacation/bin/Debug/netcoreapp3.1/Vacation.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vacation/bin/Debug/netcoreapp3.1/Vacation.runtimeconfig.dev.json
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vacation/bin/Debug/netcoreapp3.1/Vacation.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vacation/bin/Debug/netcoreapp3.1/Vacation.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vacation/obj/Debug/netcoreapp3.1/Vacation.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vacation/obj/Debug/netcoreapp3.1/Vacation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vacation/obj/Debug/netcoreapp3.1/Vacation.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vacation/obj/Debug/netcoreapp3.1/Vacation.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vacation/obj/Debug/netcoreapp3.1/Vacation.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vacation/obj/Debug/netcoreapp3.1/Vacation.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vacation/obj/Debug/netcoreapp3.1/Vacation.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Basic_Syntax_Conditional_Statements_and_Loops-Exercise/Vacation/obj/Debug/netcoreapp3.1/Vacation.genruntimeconfig.cache
