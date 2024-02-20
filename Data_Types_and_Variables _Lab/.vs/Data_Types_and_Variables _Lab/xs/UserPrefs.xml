@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{55922B52-DEDD-4D3E-B48F-D576EE492474}|Default">
+  <MonoDevelop.Ide.ItemProperties.1__Convert__Meters__to__Kilometers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="12_Refactor_Special_Numbers/Program.cs">
+    <Files>
+      <File FileName="5_Special_Numbers/Program.cs" Line="1" Column="1" />
+      <File FileName="12_Refactor_Special_Numbers/Program.cs" Line="1" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Data_Types_and_Variables _Lab" expanded="True">
+            <Node name="12_Refactor_Special_Numbers" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.7__Concat__Names PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.5__Special__Numbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.11__Refactor__Volume__of__Pyramid FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.12__Refactor__Special__Numbers FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.4__Centuries__to__Minutes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.9__Chars__to__String FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.10__Lower__or__Upper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.8__Town__Info FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.3__Exact__Sum__of__Real__Numbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

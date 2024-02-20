@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/Data_Types_and_Variables _Lab/obj/Debug/net6.0/1_Convert_Meters_to_Kilometers.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/Data_Types_and_Variables _Lab/obj/Debug/net6.0/1_Convert_Meters_to_Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/Data_Types_and_Variables _Lab/obj/Debug/net6.0/1_Convert_Meters_to_Kilometers.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/Data_Types_and_Variables _Lab/obj/Debug/net6.0/1_Convert_Meters_to_Kilometers.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/Data_Types_and_Variables _Lab/obj/Debug/net6.0/1_Convert_Meters_to_Kilometers.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/Data_Types_and_Variables _Lab/bin/Debug/net6.0/Data_Types_and_Variables _Lab
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/Data_Types_and_Variables _Lab/bin/Debug/net6.0/Data_Types_and_Variables _Lab.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/Data_Types_and_Variables _Lab/bin/Debug/net6.0/Data_Types_and_Variables _Lab.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/Data_Types_and_Variables _Lab/bin/Debug/net6.0/Data_Types_and_Variables _Lab.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/Data_Types_and_Variables _Lab/bin/Debug/net6.0/Data_Types_and_Variables _Lab.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/Data_Types_and_Variables _Lab/obj/Debug/net6.0/Data_Types_and_Variables _Lab.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/Data_Types_and_Variables _Lab/obj/Debug/net6.0/refint/Data_Types_and_Variables _Lab.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/Data_Types_and_Variables _Lab/obj/Debug/net6.0/Data_Types_and_Variables _Lab.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/Data_Types_and_Variables _Lab/obj/Debug/net6.0/1_Convert_Meters_to_Kilometers.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/Data_Types_and_Variables _Lab/obj/Debug/net6.0/ref/Data_Types_and_Variables _Lab.dll

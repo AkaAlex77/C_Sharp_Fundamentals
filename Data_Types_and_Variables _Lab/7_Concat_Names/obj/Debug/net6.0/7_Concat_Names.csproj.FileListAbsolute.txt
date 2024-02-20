@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/7_Concat_Names/bin/Debug/net6.0/7_Concat_Names
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/7_Concat_Names/bin/Debug/net6.0/7_Concat_Names.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/7_Concat_Names/bin/Debug/net6.0/7_Concat_Names.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/7_Concat_Names/bin/Debug/net6.0/7_Concat_Names.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/7_Concat_Names/bin/Debug/net6.0/7_Concat_Names.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/7_Concat_Names/obj/Debug/net6.0/7_Concat_Names.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/7_Concat_Names/obj/Debug/net6.0/7_Concat_Names.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/7_Concat_Names/obj/Debug/net6.0/7_Concat_Names.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/7_Concat_Names/obj/Debug/net6.0/7_Concat_Names.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/7_Concat_Names/obj/Debug/net6.0/7_Concat_Names.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/7_Concat_Names/obj/Debug/net6.0/7_Concat_Names.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/7_Concat_Names/obj/Debug/net6.0/refint/7_Concat_Names.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/7_Concat_Names/obj/Debug/net6.0/7_Concat_Names.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/7_Concat_Names/obj/Debug/net6.0/7_Concat_Names.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/7_Concat_Names/obj/Debug/net6.0/ref/7_Concat_Names.dll

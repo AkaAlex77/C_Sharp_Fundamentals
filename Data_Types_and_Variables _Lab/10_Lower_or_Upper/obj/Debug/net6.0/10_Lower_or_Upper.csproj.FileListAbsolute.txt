@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/10_Lower_or_Upper/bin/Debug/net6.0/10_Lower_or_Upper
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/10_Lower_or_Upper/bin/Debug/net6.0/10_Lower_or_Upper.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/10_Lower_or_Upper/bin/Debug/net6.0/10_Lower_or_Upper.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/10_Lower_or_Upper/bin/Debug/net6.0/10_Lower_or_Upper.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/10_Lower_or_Upper/bin/Debug/net6.0/10_Lower_or_Upper.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/10_Lower_or_Upper/obj/Debug/net6.0/10_Lower_or_Upper.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/10_Lower_or_Upper/obj/Debug/net6.0/10_Lower_or_Upper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/10_Lower_or_Upper/obj/Debug/net6.0/10_Lower_or_Upper.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/10_Lower_or_Upper/obj/Debug/net6.0/10_Lower_or_Upper.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/10_Lower_or_Upper/obj/Debug/net6.0/10_Lower_or_Upper.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/10_Lower_or_Upper/obj/Debug/net6.0/10_Lower_or_Upper.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/10_Lower_or_Upper/obj/Debug/net6.0/refint/10_Lower_or_Upper.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/10_Lower_or_Upper/obj/Debug/net6.0/10_Lower_or_Upper.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/10_Lower_or_Upper/obj/Debug/net6.0/10_Lower_or_Upper.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables _Lab/10_Lower_or_Upper/obj/Debug/net6.0/ref/10_Lower_or_Upper.dll
