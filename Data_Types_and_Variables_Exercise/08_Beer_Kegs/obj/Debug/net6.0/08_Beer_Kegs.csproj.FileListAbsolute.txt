@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/08_Beer_Kegs/bin/Debug/net6.0/08_Beer_Kegs
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/08_Beer_Kegs/bin/Debug/net6.0/08_Beer_Kegs.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/08_Beer_Kegs/bin/Debug/net6.0/08_Beer_Kegs.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/08_Beer_Kegs/bin/Debug/net6.0/08_Beer_Kegs.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/08_Beer_Kegs/bin/Debug/net6.0/08_Beer_Kegs.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/08_Beer_Kegs/obj/Debug/net6.0/08_Beer_Kegs.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/08_Beer_Kegs/obj/Debug/net6.0/08_Beer_Kegs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/08_Beer_Kegs/obj/Debug/net6.0/08_Beer_Kegs.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/08_Beer_Kegs/obj/Debug/net6.0/08_Beer_Kegs.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/08_Beer_Kegs/obj/Debug/net6.0/08_Beer_Kegs.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/08_Beer_Kegs/obj/Debug/net6.0/08_Beer_Kegs.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/08_Beer_Kegs/obj/Debug/net6.0/refint/08_Beer_Kegs.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/08_Beer_Kegs/obj/Debug/net6.0/08_Beer_Kegs.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/08_Beer_Kegs/obj/Debug/net6.0/08_Beer_Kegs.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/08_Beer_Kegs/obj/Debug/net6.0/ref/08_Beer_Kegs.dll

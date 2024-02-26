@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/Data_Types_and_Variables_Lab/bin/Debug/net6.0/Data_Types_and_Variables_Lab
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/Data_Types_and_Variables_Lab/bin/Debug/net6.0/Data_Types_and_Variables_Lab.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/Data_Types_and_Variables_Lab/bin/Debug/net6.0/Data_Types_and_Variables_Lab.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/Data_Types_and_Variables_Lab/bin/Debug/net6.0/Data_Types_and_Variables_Lab.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/Data_Types_and_Variables_Lab/bin/Debug/net6.0/Data_Types_and_Variables_Lab.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/Data_Types_and_Variables_Lab/obj/Debug/net6.0/02. Sum Digits.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/Data_Types_and_Variables_Lab/obj/Debug/net6.0/02. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/Data_Types_and_Variables_Lab/obj/Debug/net6.0/02. Sum Digits.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/Data_Types_and_Variables_Lab/obj/Debug/net6.0/02. Sum Digits.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/Data_Types_and_Variables_Lab/obj/Debug/net6.0/02. Sum Digits.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/Data_Types_and_Variables_Lab/obj/Debug/net6.0/Data_Types_and_Variables_Lab.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/Data_Types_and_Variables_Lab/obj/Debug/net6.0/refint/Data_Types_and_Variables_Lab.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/Data_Types_and_Variables_Lab/obj/Debug/net6.0/Data_Types_and_Variables_Lab.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/Data_Types_and_Variables_Lab/obj/Debug/net6.0/02. Sum Digits.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/Data_Types_and_Variables_Lab/obj/Debug/net6.0/ref/Data_Types_and_Variables_Lab.dll

@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/05_Special_Numbers/bin/Debug/net6.0/05_Special_Numbers
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/05_Special_Numbers/bin/Debug/net6.0/05_Special_Numbers.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/05_Special_Numbers/bin/Debug/net6.0/05_Special_Numbers.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/05_Special_Numbers/bin/Debug/net6.0/05_Special_Numbers.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/05_Special_Numbers/bin/Debug/net6.0/05_Special_Numbers.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/05_Special_Numbers/obj/Debug/net6.0/05. Print Part Of ASCII Table.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/05_Special_Numbers/obj/Debug/net6.0/05. Print Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/05_Special_Numbers/obj/Debug/net6.0/05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/05_Special_Numbers/obj/Debug/net6.0/05. Print Part Of ASCII Table.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/05_Special_Numbers/obj/Debug/net6.0/05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/05_Special_Numbers/obj/Debug/net6.0/05_Special_Numbers.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/05_Special_Numbers/obj/Debug/net6.0/refint/05_Special_Numbers.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/05_Special_Numbers/obj/Debug/net6.0/05_Special_Numbers.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/05_Special_Numbers/obj/Debug/net6.0/05. Print Part Of ASCII Table.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/05_Special_Numbers/obj/Debug/net6.0/ref/05_Special_Numbers.dll

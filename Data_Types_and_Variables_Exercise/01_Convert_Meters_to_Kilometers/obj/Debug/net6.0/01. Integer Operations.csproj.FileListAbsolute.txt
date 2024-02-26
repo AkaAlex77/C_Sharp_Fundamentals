@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/01_Convert_Meters_to_Kilometers/bin/Debug/net6.0/01_Convert_Meters_to_Kilometers
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/01_Convert_Meters_to_Kilometers/bin/Debug/net6.0/01_Convert_Meters_to_Kilometers.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/01_Convert_Meters_to_Kilometers/bin/Debug/net6.0/01_Convert_Meters_to_Kilometers.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/01_Convert_Meters_to_Kilometers/bin/Debug/net6.0/01_Convert_Meters_to_Kilometers.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/01_Convert_Meters_to_Kilometers/bin/Debug/net6.0/01_Convert_Meters_to_Kilometers.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/01_Convert_Meters_to_Kilometers/obj/Debug/net6.0/01. Integer Operations.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/01_Convert_Meters_to_Kilometers/obj/Debug/net6.0/01. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/01_Convert_Meters_to_Kilometers/obj/Debug/net6.0/01. Integer Operations.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/01_Convert_Meters_to_Kilometers/obj/Debug/net6.0/01. Integer Operations.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/01_Convert_Meters_to_Kilometers/obj/Debug/net6.0/01. Integer Operations.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/01_Convert_Meters_to_Kilometers/obj/Debug/net6.0/01_Convert_Meters_to_Kilometers.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/01_Convert_Meters_to_Kilometers/obj/Debug/net6.0/refint/01_Convert_Meters_to_Kilometers.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/01_Convert_Meters_to_Kilometers/obj/Debug/net6.0/01_Convert_Meters_to_Kilometers.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/01_Convert_Meters_to_Kilometers/obj/Debug/net6.0/01. Integer Operations.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Data_Types_and_Variables_Exercise/01_Convert_Meters_to_Kilometers/obj/Debug/net6.0/ref/01_Convert_Meters_to_Kilometers.dll

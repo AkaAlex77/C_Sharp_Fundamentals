@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{9D22076C-0ED7-4A86-BD00-6B9E45FACB9E}|Default">
+  <MonoDevelop.Ide.ItemProperties.03._220Elevator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07__Water__Overflow PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.11__Snowballs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.09__Spice__Must__Flow PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects" />
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.05._220Print_220Part_220Of_220ASCII_220Table PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06__Triples__of__Latin__Letters PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="08_Beer_Kegs/Program.cs">
+    <Files>
+      <File FileName="Data_Types_and_Variables_Lab/Program.cs" Line="1" Column="1" />
+      <File FileName="01_Convert_Meters_to_Kilometers/Program.cs" Line="1" Column="1" />
+      <File FileName="11_Snowballs/Program.cs" Line="1" Column="1" />
+      <File FileName="05_Special_Numbers/Program.cs" Line="7" Column="2" />
+      <File FileName="08_Beer_Kegs/Program.cs" Line="20" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Data_Types_and_Variables_Exercise" expanded="True">
+            <Node name="01. Integer Operations" expanded="True" />
+            <Node name="02. Sum Digits" expanded="True" />
+            <Node name="05. Print Part Of ASCII Table" expanded="True" />
+            <Node name="08_Beer_Kegs" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="11_Snowballs" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.04._220Sum_220of_220Chars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08__Beer__Kegs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02._220Sum_220Digits PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
