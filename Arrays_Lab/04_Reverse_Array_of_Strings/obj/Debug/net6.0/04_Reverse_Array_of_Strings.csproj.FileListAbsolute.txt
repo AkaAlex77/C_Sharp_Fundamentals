@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/04_Reverse_Array_of_Strings/bin/Debug/net6.0/04_Reverse_Array_of_Strings
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/04_Reverse_Array_of_Strings/bin/Debug/net6.0/04_Reverse_Array_of_Strings.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/04_Reverse_Array_of_Strings/bin/Debug/net6.0/04_Reverse_Array_of_Strings.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/04_Reverse_Array_of_Strings/bin/Debug/net6.0/04_Reverse_Array_of_Strings.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/04_Reverse_Array_of_Strings/bin/Debug/net6.0/04_Reverse_Array_of_Strings.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/04_Reverse_Array_of_Strings/obj/Debug/net6.0/04_Reverse_Array_of_Strings.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/04_Reverse_Array_of_Strings/obj/Debug/net6.0/04_Reverse_Array_of_Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/04_Reverse_Array_of_Strings/obj/Debug/net6.0/04_Reverse_Array_of_Strings.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/04_Reverse_Array_of_Strings/obj/Debug/net6.0/04_Reverse_Array_of_Strings.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/04_Reverse_Array_of_Strings/obj/Debug/net6.0/04_Reverse_Array_of_Strings.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/04_Reverse_Array_of_Strings/obj/Debug/net6.0/04_Reverse_Array_of_Strings.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/04_Reverse_Array_of_Strings/obj/Debug/net6.0/refint/04_Reverse_Array_of_Strings.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/04_Reverse_Array_of_Strings/obj/Debug/net6.0/04_Reverse_Array_of_Strings.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/04_Reverse_Array_of_Strings/obj/Debug/net6.0/04_Reverse_Array_of_Strings.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/04_Reverse_Array_of_Strings/obj/Debug/net6.0/ref/04_Reverse_Array_of_Strings.dll

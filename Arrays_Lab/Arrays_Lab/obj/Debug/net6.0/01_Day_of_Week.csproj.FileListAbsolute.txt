@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/Arrays_Lab/bin/Debug/net6.0/Arrays_Lab
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/Arrays_Lab/bin/Debug/net6.0/Arrays_Lab.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/Arrays_Lab/bin/Debug/net6.0/Arrays_Lab.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/Arrays_Lab/bin/Debug/net6.0/Arrays_Lab.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/Arrays_Lab/bin/Debug/net6.0/Arrays_Lab.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/Arrays_Lab/obj/Debug/net6.0/01_Day_of_Week.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/Arrays_Lab/obj/Debug/net6.0/01_Day_of_Week.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/Arrays_Lab/obj/Debug/net6.0/01_Day_of_Week.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/Arrays_Lab/obj/Debug/net6.0/01_Day_of_Week.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/Arrays_Lab/obj/Debug/net6.0/01_Day_of_Week.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/Arrays_Lab/obj/Debug/net6.0/Arrays_Lab.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/Arrays_Lab/obj/Debug/net6.0/refint/Arrays_Lab.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/Arrays_Lab/obj/Debug/net6.0/Arrays_Lab.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/Arrays_Lab/obj/Debug/net6.0/01_Day_of_Week.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/Arrays_Lab/obj/Debug/net6.0/ref/Arrays_Lab.dll

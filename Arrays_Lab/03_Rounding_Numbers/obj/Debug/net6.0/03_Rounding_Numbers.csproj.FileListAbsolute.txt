@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/03_Rounding_Numbers/bin/Debug/net6.0/03_Rounding_Numbers
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/03_Rounding_Numbers/bin/Debug/net6.0/03_Rounding_Numbers.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/03_Rounding_Numbers/bin/Debug/net6.0/03_Rounding_Numbers.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/03_Rounding_Numbers/bin/Debug/net6.0/03_Rounding_Numbers.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/03_Rounding_Numbers/bin/Debug/net6.0/03_Rounding_Numbers.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/03_Rounding_Numbers/obj/Debug/net6.0/03_Rounding_Numbers.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/03_Rounding_Numbers/obj/Debug/net6.0/03_Rounding_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/03_Rounding_Numbers/obj/Debug/net6.0/03_Rounding_Numbers.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/03_Rounding_Numbers/obj/Debug/net6.0/03_Rounding_Numbers.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/03_Rounding_Numbers/obj/Debug/net6.0/03_Rounding_Numbers.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/03_Rounding_Numbers/obj/Debug/net6.0/03_Rounding_Numbers.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/03_Rounding_Numbers/obj/Debug/net6.0/refint/03_Rounding_Numbers.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/03_Rounding_Numbers/obj/Debug/net6.0/03_Rounding_Numbers.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/03_Rounding_Numbers/obj/Debug/net6.0/03_Rounding_Numbers.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/03_Rounding_Numbers/obj/Debug/net6.0/ref/03_Rounding_Numbers.dll

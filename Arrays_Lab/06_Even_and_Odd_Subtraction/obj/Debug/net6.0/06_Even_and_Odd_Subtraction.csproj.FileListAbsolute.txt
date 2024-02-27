@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/06_Even_and_Odd_Subtraction/bin/Debug/net6.0/06_Even_and_Odd_Subtraction
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/06_Even_and_Odd_Subtraction/bin/Debug/net6.0/06_Even_and_Odd_Subtraction.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/06_Even_and_Odd_Subtraction/bin/Debug/net6.0/06_Even_and_Odd_Subtraction.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/06_Even_and_Odd_Subtraction/bin/Debug/net6.0/06_Even_and_Odd_Subtraction.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/06_Even_and_Odd_Subtraction/bin/Debug/net6.0/06_Even_and_Odd_Subtraction.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/06_Even_and_Odd_Subtraction/obj/Debug/net6.0/06_Even_and_Odd_Subtraction.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/06_Even_and_Odd_Subtraction/obj/Debug/net6.0/06_Even_and_Odd_Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/06_Even_and_Odd_Subtraction/obj/Debug/net6.0/06_Even_and_Odd_Subtraction.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/06_Even_and_Odd_Subtraction/obj/Debug/net6.0/06_Even_and_Odd_Subtraction.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/06_Even_and_Odd_Subtraction/obj/Debug/net6.0/06_Even_and_Odd_Subtraction.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/06_Even_and_Odd_Subtraction/obj/Debug/net6.0/06_Even_and_Odd_Subtraction.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/06_Even_and_Odd_Subtraction/obj/Debug/net6.0/refint/06_Even_and_Odd_Subtraction.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/06_Even_and_Odd_Subtraction/obj/Debug/net6.0/06_Even_and_Odd_Subtraction.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/06_Even_and_Odd_Subtraction/obj/Debug/net6.0/06_Even_and_Odd_Subtraction.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/06_Even_and_Odd_Subtraction/obj/Debug/net6.0/ref/06_Even_and_Odd_Subtraction.dll

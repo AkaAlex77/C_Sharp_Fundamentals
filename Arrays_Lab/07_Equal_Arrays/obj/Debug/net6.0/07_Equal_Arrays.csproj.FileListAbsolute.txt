@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/07_Equal_Arrays/bin/Debug/net6.0/07_Equal_Arrays
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/07_Equal_Arrays/bin/Debug/net6.0/07_Equal_Arrays.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/07_Equal_Arrays/bin/Debug/net6.0/07_Equal_Arrays.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/07_Equal_Arrays/bin/Debug/net6.0/07_Equal_Arrays.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/07_Equal_Arrays/bin/Debug/net6.0/07_Equal_Arrays.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/07_Equal_Arrays/obj/Debug/net6.0/07_Equal_Arrays.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/07_Equal_Arrays/obj/Debug/net6.0/07_Equal_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/07_Equal_Arrays/obj/Debug/net6.0/07_Equal_Arrays.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/07_Equal_Arrays/obj/Debug/net6.0/07_Equal_Arrays.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/07_Equal_Arrays/obj/Debug/net6.0/07_Equal_Arrays.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/07_Equal_Arrays/obj/Debug/net6.0/07_Equal_Arrays.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/07_Equal_Arrays/obj/Debug/net6.0/refint/07_Equal_Arrays.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/07_Equal_Arrays/obj/Debug/net6.0/07_Equal_Arrays.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/07_Equal_Arrays/obj/Debug/net6.0/07_Equal_Arrays.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Arrays_Lab/07_Equal_Arrays/obj/Debug/net6.0/ref/07_Equal_Arrays.dll
