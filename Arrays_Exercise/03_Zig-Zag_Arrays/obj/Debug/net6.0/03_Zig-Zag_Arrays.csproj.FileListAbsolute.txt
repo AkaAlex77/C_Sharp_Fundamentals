@@ -1,0 +1,15 @@
+/Users/alex/Projects/Arrays_Exercise/03_Zig-Zag_Arrays/bin/Debug/net6.0/03_Zig-Zag_Arrays
+/Users/alex/Projects/Arrays_Exercise/03_Zig-Zag_Arrays/bin/Debug/net6.0/03_Zig-Zag_Arrays.deps.json
+/Users/alex/Projects/Arrays_Exercise/03_Zig-Zag_Arrays/bin/Debug/net6.0/03_Zig-Zag_Arrays.runtimeconfig.json
+/Users/alex/Projects/Arrays_Exercise/03_Zig-Zag_Arrays/bin/Debug/net6.0/03_Zig-Zag_Arrays.dll
+/Users/alex/Projects/Arrays_Exercise/03_Zig-Zag_Arrays/bin/Debug/net6.0/03_Zig-Zag_Arrays.pdb
+/Users/alex/Projects/Arrays_Exercise/03_Zig-Zag_Arrays/obj/Debug/net6.0/03_Zig-Zag_Arrays.csproj.AssemblyReference.cache
+/Users/alex/Projects/Arrays_Exercise/03_Zig-Zag_Arrays/obj/Debug/net6.0/03_Zig-Zag_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Projects/Arrays_Exercise/03_Zig-Zag_Arrays/obj/Debug/net6.0/03_Zig-Zag_Arrays.AssemblyInfoInputs.cache
+/Users/alex/Projects/Arrays_Exercise/03_Zig-Zag_Arrays/obj/Debug/net6.0/03_Zig-Zag_Arrays.AssemblyInfo.cs
+/Users/alex/Projects/Arrays_Exercise/03_Zig-Zag_Arrays/obj/Debug/net6.0/03_Zig-Zag_Arrays.csproj.CoreCompileInputs.cache
+/Users/alex/Projects/Arrays_Exercise/03_Zig-Zag_Arrays/obj/Debug/net6.0/03_Zig-Zag_Arrays.dll
+/Users/alex/Projects/Arrays_Exercise/03_Zig-Zag_Arrays/obj/Debug/net6.0/refint/03_Zig-Zag_Arrays.dll
+/Users/alex/Projects/Arrays_Exercise/03_Zig-Zag_Arrays/obj/Debug/net6.0/03_Zig-Zag_Arrays.pdb
+/Users/alex/Projects/Arrays_Exercise/03_Zig-Zag_Arrays/obj/Debug/net6.0/03_Zig-Zag_Arrays.genruntimeconfig.cache
+/Users/alex/Projects/Arrays_Exercise/03_Zig-Zag_Arrays/obj/Debug/net6.0/ref/03_Zig-Zag_Arrays.dll

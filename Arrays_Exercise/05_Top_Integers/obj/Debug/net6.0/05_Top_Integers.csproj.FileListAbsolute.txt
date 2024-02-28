@@ -1,0 +1,15 @@
+/Users/alex/Projects/Arrays_Exercise/05_Top_Integers/bin/Debug/net6.0/05_Top_Integers
+/Users/alex/Projects/Arrays_Exercise/05_Top_Integers/bin/Debug/net6.0/05_Top_Integers.deps.json
+/Users/alex/Projects/Arrays_Exercise/05_Top_Integers/bin/Debug/net6.0/05_Top_Integers.runtimeconfig.json
+/Users/alex/Projects/Arrays_Exercise/05_Top_Integers/bin/Debug/net6.0/05_Top_Integers.dll
+/Users/alex/Projects/Arrays_Exercise/05_Top_Integers/bin/Debug/net6.0/05_Top_Integers.pdb
+/Users/alex/Projects/Arrays_Exercise/05_Top_Integers/obj/Debug/net6.0/05_Top_Integers.csproj.AssemblyReference.cache
+/Users/alex/Projects/Arrays_Exercise/05_Top_Integers/obj/Debug/net6.0/05_Top_Integers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Projects/Arrays_Exercise/05_Top_Integers/obj/Debug/net6.0/05_Top_Integers.AssemblyInfoInputs.cache
+/Users/alex/Projects/Arrays_Exercise/05_Top_Integers/obj/Debug/net6.0/05_Top_Integers.AssemblyInfo.cs
+/Users/alex/Projects/Arrays_Exercise/05_Top_Integers/obj/Debug/net6.0/05_Top_Integers.csproj.CoreCompileInputs.cache
+/Users/alex/Projects/Arrays_Exercise/05_Top_Integers/obj/Debug/net6.0/05_Top_Integers.dll
+/Users/alex/Projects/Arrays_Exercise/05_Top_Integers/obj/Debug/net6.0/refint/05_Top_Integers.dll
+/Users/alex/Projects/Arrays_Exercise/05_Top_Integers/obj/Debug/net6.0/05_Top_Integers.pdb
+/Users/alex/Projects/Arrays_Exercise/05_Top_Integers/obj/Debug/net6.0/05_Top_Integers.genruntimeconfig.cache
+/Users/alex/Projects/Arrays_Exercise/05_Top_Integers/obj/Debug/net6.0/ref/05_Top_Integers.dll

@@ -1,0 +1,15 @@
+/Users/alex/Projects/Arrays_Exercise/07_Max_Sequence_of_Equal_Elements/bin/Debug/net6.0/07_Max_Sequence_of_Equal_Elements
+/Users/alex/Projects/Arrays_Exercise/07_Max_Sequence_of_Equal_Elements/bin/Debug/net6.0/07_Max_Sequence_of_Equal_Elements.deps.json
+/Users/alex/Projects/Arrays_Exercise/07_Max_Sequence_of_Equal_Elements/bin/Debug/net6.0/07_Max_Sequence_of_Equal_Elements.runtimeconfig.json
+/Users/alex/Projects/Arrays_Exercise/07_Max_Sequence_of_Equal_Elements/bin/Debug/net6.0/07_Max_Sequence_of_Equal_Elements.dll
+/Users/alex/Projects/Arrays_Exercise/07_Max_Sequence_of_Equal_Elements/bin/Debug/net6.0/07_Max_Sequence_of_Equal_Elements.pdb
+/Users/alex/Projects/Arrays_Exercise/07_Max_Sequence_of_Equal_Elements/obj/Debug/net6.0/07_Max_Sequence_of_Equal_Elements.csproj.AssemblyReference.cache
+/Users/alex/Projects/Arrays_Exercise/07_Max_Sequence_of_Equal_Elements/obj/Debug/net6.0/07_Max_Sequence_of_Equal_Elements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Projects/Arrays_Exercise/07_Max_Sequence_of_Equal_Elements/obj/Debug/net6.0/07_Max_Sequence_of_Equal_Elements.AssemblyInfoInputs.cache
+/Users/alex/Projects/Arrays_Exercise/07_Max_Sequence_of_Equal_Elements/obj/Debug/net6.0/07_Max_Sequence_of_Equal_Elements.AssemblyInfo.cs
+/Users/alex/Projects/Arrays_Exercise/07_Max_Sequence_of_Equal_Elements/obj/Debug/net6.0/07_Max_Sequence_of_Equal_Elements.csproj.CoreCompileInputs.cache
+/Users/alex/Projects/Arrays_Exercise/07_Max_Sequence_of_Equal_Elements/obj/Debug/net6.0/07_Max_Sequence_of_Equal_Elements.dll
+/Users/alex/Projects/Arrays_Exercise/07_Max_Sequence_of_Equal_Elements/obj/Debug/net6.0/refint/07_Max_Sequence_of_Equal_Elements.dll
+/Users/alex/Projects/Arrays_Exercise/07_Max_Sequence_of_Equal_Elements/obj/Debug/net6.0/07_Max_Sequence_of_Equal_Elements.pdb
+/Users/alex/Projects/Arrays_Exercise/07_Max_Sequence_of_Equal_Elements/obj/Debug/net6.0/07_Max_Sequence_of_Equal_Elements.genruntimeconfig.cache
+/Users/alex/Projects/Arrays_Exercise/07_Max_Sequence_of_Equal_Elements/obj/Debug/net6.0/ref/07_Max_Sequence_of_Equal_Elements.dll

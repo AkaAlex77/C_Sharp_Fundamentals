@@ -1,0 +1,15 @@
+/Users/alex/Projects/Arrays_Exercise/08_Magic_Sum/bin/Debug/net6.0/08_Magic_Sum
+/Users/alex/Projects/Arrays_Exercise/08_Magic_Sum/bin/Debug/net6.0/08_Magic_Sum.deps.json
+/Users/alex/Projects/Arrays_Exercise/08_Magic_Sum/bin/Debug/net6.0/08_Magic_Sum.runtimeconfig.json
+/Users/alex/Projects/Arrays_Exercise/08_Magic_Sum/bin/Debug/net6.0/08_Magic_Sum.dll
+/Users/alex/Projects/Arrays_Exercise/08_Magic_Sum/bin/Debug/net6.0/08_Magic_Sum.pdb
+/Users/alex/Projects/Arrays_Exercise/08_Magic_Sum/obj/Debug/net6.0/08_Magic_Sum.csproj.AssemblyReference.cache
+/Users/alex/Projects/Arrays_Exercise/08_Magic_Sum/obj/Debug/net6.0/08_Magic_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Projects/Arrays_Exercise/08_Magic_Sum/obj/Debug/net6.0/08_Magic_Sum.AssemblyInfoInputs.cache
+/Users/alex/Projects/Arrays_Exercise/08_Magic_Sum/obj/Debug/net6.0/08_Magic_Sum.AssemblyInfo.cs
+/Users/alex/Projects/Arrays_Exercise/08_Magic_Sum/obj/Debug/net6.0/08_Magic_Sum.csproj.CoreCompileInputs.cache
+/Users/alex/Projects/Arrays_Exercise/08_Magic_Sum/obj/Debug/net6.0/08_Magic_Sum.dll
+/Users/alex/Projects/Arrays_Exercise/08_Magic_Sum/obj/Debug/net6.0/refint/08_Magic_Sum.dll
+/Users/alex/Projects/Arrays_Exercise/08_Magic_Sum/obj/Debug/net6.0/08_Magic_Sum.pdb
+/Users/alex/Projects/Arrays_Exercise/08_Magic_Sum/obj/Debug/net6.0/08_Magic_Sum.genruntimeconfig.cache
+/Users/alex/Projects/Arrays_Exercise/08_Magic_Sum/obj/Debug/net6.0/ref/08_Magic_Sum.dll

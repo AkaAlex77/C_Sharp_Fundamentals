@@ -1,0 +1,15 @@
+/Users/alex/Projects/Arrays_Exercise/04_Array_Rotation/bin/Debug/net6.0/04_Array_Rotation
+/Users/alex/Projects/Arrays_Exercise/04_Array_Rotation/bin/Debug/net6.0/04_Array_Rotation.deps.json
+/Users/alex/Projects/Arrays_Exercise/04_Array_Rotation/bin/Debug/net6.0/04_Array_Rotation.runtimeconfig.json
+/Users/alex/Projects/Arrays_Exercise/04_Array_Rotation/bin/Debug/net6.0/04_Array_Rotation.dll
+/Users/alex/Projects/Arrays_Exercise/04_Array_Rotation/bin/Debug/net6.0/04_Array_Rotation.pdb
+/Users/alex/Projects/Arrays_Exercise/04_Array_Rotation/obj/Debug/net6.0/04_Array_Rotation.csproj.AssemblyReference.cache
+/Users/alex/Projects/Arrays_Exercise/04_Array_Rotation/obj/Debug/net6.0/04_Array_Rotation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Projects/Arrays_Exercise/04_Array_Rotation/obj/Debug/net6.0/04_Array_Rotation.AssemblyInfoInputs.cache
+/Users/alex/Projects/Arrays_Exercise/04_Array_Rotation/obj/Debug/net6.0/04_Array_Rotation.AssemblyInfo.cs
+/Users/alex/Projects/Arrays_Exercise/04_Array_Rotation/obj/Debug/net6.0/04_Array_Rotation.csproj.CoreCompileInputs.cache
+/Users/alex/Projects/Arrays_Exercise/04_Array_Rotation/obj/Debug/net6.0/04_Array_Rotation.dll
+/Users/alex/Projects/Arrays_Exercise/04_Array_Rotation/obj/Debug/net6.0/refint/04_Array_Rotation.dll
+/Users/alex/Projects/Arrays_Exercise/04_Array_Rotation/obj/Debug/net6.0/04_Array_Rotation.pdb
+/Users/alex/Projects/Arrays_Exercise/04_Array_Rotation/obj/Debug/net6.0/04_Array_Rotation.genruntimeconfig.cache
+/Users/alex/Projects/Arrays_Exercise/04_Array_Rotation/obj/Debug/net6.0/ref/04_Array_Rotation.dll

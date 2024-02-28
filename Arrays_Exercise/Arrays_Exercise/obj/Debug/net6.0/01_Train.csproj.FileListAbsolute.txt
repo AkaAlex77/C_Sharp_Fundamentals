@@ -1,0 +1,15 @@
+/Users/alex/Projects/Arrays_Exercise/Arrays_Exercise/bin/Debug/net6.0/Arrays_Exercise
+/Users/alex/Projects/Arrays_Exercise/Arrays_Exercise/bin/Debug/net6.0/Arrays_Exercise.deps.json
+/Users/alex/Projects/Arrays_Exercise/Arrays_Exercise/bin/Debug/net6.0/Arrays_Exercise.runtimeconfig.json
+/Users/alex/Projects/Arrays_Exercise/Arrays_Exercise/bin/Debug/net6.0/Arrays_Exercise.dll
+/Users/alex/Projects/Arrays_Exercise/Arrays_Exercise/bin/Debug/net6.0/Arrays_Exercise.pdb
+/Users/alex/Projects/Arrays_Exercise/Arrays_Exercise/obj/Debug/net6.0/01_Train.csproj.AssemblyReference.cache
+/Users/alex/Projects/Arrays_Exercise/Arrays_Exercise/obj/Debug/net6.0/01_Train.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Projects/Arrays_Exercise/Arrays_Exercise/obj/Debug/net6.0/01_Train.AssemblyInfoInputs.cache
+/Users/alex/Projects/Arrays_Exercise/Arrays_Exercise/obj/Debug/net6.0/01_Train.AssemblyInfo.cs
+/Users/alex/Projects/Arrays_Exercise/Arrays_Exercise/obj/Debug/net6.0/01_Train.csproj.CoreCompileInputs.cache
+/Users/alex/Projects/Arrays_Exercise/Arrays_Exercise/obj/Debug/net6.0/Arrays_Exercise.dll
+/Users/alex/Projects/Arrays_Exercise/Arrays_Exercise/obj/Debug/net6.0/refint/Arrays_Exercise.dll
+/Users/alex/Projects/Arrays_Exercise/Arrays_Exercise/obj/Debug/net6.0/Arrays_Exercise.pdb
+/Users/alex/Projects/Arrays_Exercise/Arrays_Exercise/obj/Debug/net6.0/01_Train.genruntimeconfig.cache
+/Users/alex/Projects/Arrays_Exercise/Arrays_Exercise/obj/Debug/net6.0/ref/Arrays_Exercise.dll

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C1581C35-8FA7-4006-8B03-98153468661A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.01__Train PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10__LadyBugs FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="08_Magic_Sum/Program.cs">
+    <Files>
+      <File FileName="08_Magic_Sum/Program.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Arrays_Exercise" expanded="True">
+            <Node name="05_Top_Integers" expanded="True" />
+            <Node name="06_Equal_Sum" expanded="True" />
+            <Node name="07_Max_Sequence_of_Equal_Elements" expanded="True" />
+            <Node name="08_Magic_Sum" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.09__Kamino__Factory FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

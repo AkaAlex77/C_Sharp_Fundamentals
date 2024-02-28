@@ -1,0 +1,15 @@
+/Users/alex/Projects/Arrays_Exercise/06_Equal_Sum/bin/Debug/net6.0/06_Equal_Sum
+/Users/alex/Projects/Arrays_Exercise/06_Equal_Sum/bin/Debug/net6.0/06_Equal_Sum.deps.json
+/Users/alex/Projects/Arrays_Exercise/06_Equal_Sum/bin/Debug/net6.0/06_Equal_Sum.runtimeconfig.json
+/Users/alex/Projects/Arrays_Exercise/06_Equal_Sum/bin/Debug/net6.0/06_Equal_Sum.dll
+/Users/alex/Projects/Arrays_Exercise/06_Equal_Sum/bin/Debug/net6.0/06_Equal_Sum.pdb
+/Users/alex/Projects/Arrays_Exercise/06_Equal_Sum/obj/Debug/net6.0/06_Equal_Sum.csproj.AssemblyReference.cache
+/Users/alex/Projects/Arrays_Exercise/06_Equal_Sum/obj/Debug/net6.0/06_Equal_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Projects/Arrays_Exercise/06_Equal_Sum/obj/Debug/net6.0/06_Equal_Sum.AssemblyInfoInputs.cache
+/Users/alex/Projects/Arrays_Exercise/06_Equal_Sum/obj/Debug/net6.0/06_Equal_Sum.AssemblyInfo.cs
+/Users/alex/Projects/Arrays_Exercise/06_Equal_Sum/obj/Debug/net6.0/06_Equal_Sum.csproj.CoreCompileInputs.cache
+/Users/alex/Projects/Arrays_Exercise/06_Equal_Sum/obj/Debug/net6.0/06_Equal_Sum.dll
+/Users/alex/Projects/Arrays_Exercise/06_Equal_Sum/obj/Debug/net6.0/refint/06_Equal_Sum.dll
+/Users/alex/Projects/Arrays_Exercise/06_Equal_Sum/obj/Debug/net6.0/06_Equal_Sum.pdb
+/Users/alex/Projects/Arrays_Exercise/06_Equal_Sum/obj/Debug/net6.0/06_Equal_Sum.genruntimeconfig.cache
+/Users/alex/Projects/Arrays_Exercise/06_Equal_Sum/obj/Debug/net6.0/ref/06_Equal_Sum.dll

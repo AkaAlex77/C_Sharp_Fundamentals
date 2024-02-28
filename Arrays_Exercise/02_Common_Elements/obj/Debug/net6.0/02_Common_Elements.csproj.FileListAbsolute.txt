@@ -1,0 +1,15 @@
+/Users/alex/Projects/Arrays_Exercise/02_Common_Elements/bin/Debug/net6.0/02_Common_Elements
+/Users/alex/Projects/Arrays_Exercise/02_Common_Elements/bin/Debug/net6.0/02_Common_Elements.deps.json
+/Users/alex/Projects/Arrays_Exercise/02_Common_Elements/bin/Debug/net6.0/02_Common_Elements.runtimeconfig.json
+/Users/alex/Projects/Arrays_Exercise/02_Common_Elements/bin/Debug/net6.0/02_Common_Elements.dll
+/Users/alex/Projects/Arrays_Exercise/02_Common_Elements/bin/Debug/net6.0/02_Common_Elements.pdb
+/Users/alex/Projects/Arrays_Exercise/02_Common_Elements/obj/Debug/net6.0/02_Common_Elements.csproj.AssemblyReference.cache
+/Users/alex/Projects/Arrays_Exercise/02_Common_Elements/obj/Debug/net6.0/02_Common_Elements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Projects/Arrays_Exercise/02_Common_Elements/obj/Debug/net6.0/02_Common_Elements.AssemblyInfoInputs.cache
+/Users/alex/Projects/Arrays_Exercise/02_Common_Elements/obj/Debug/net6.0/02_Common_Elements.AssemblyInfo.cs
+/Users/alex/Projects/Arrays_Exercise/02_Common_Elements/obj/Debug/net6.0/02_Common_Elements.csproj.CoreCompileInputs.cache
+/Users/alex/Projects/Arrays_Exercise/02_Common_Elements/obj/Debug/net6.0/02_Common_Elements.dll
+/Users/alex/Projects/Arrays_Exercise/02_Common_Elements/obj/Debug/net6.0/refint/02_Common_Elements.dll
+/Users/alex/Projects/Arrays_Exercise/02_Common_Elements/obj/Debug/net6.0/02_Common_Elements.pdb
+/Users/alex/Projects/Arrays_Exercise/02_Common_Elements/obj/Debug/net6.0/02_Common_Elements.genruntimeconfig.cache
+/Users/alex/Projects/Arrays_Exercise/02_Common_Elements/obj/Debug/net6.0/ref/02_Common_Elements.dll
