@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/11. Math operations/bin/Debug/net6.0/11. Math operations
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/11. Math operations/bin/Debug/net6.0/11. Math operations.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/11. Math operations/bin/Debug/net6.0/11. Math operations.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/11. Math operations/bin/Debug/net6.0/11. Math operations.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/11. Math operations/bin/Debug/net6.0/11. Math operations.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/11. Math operations/obj/Debug/net6.0/11. Math operations.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/11. Math operations/obj/Debug/net6.0/11. Math operations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/11. Math operations/obj/Debug/net6.0/11. Math operations.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/11. Math operations/obj/Debug/net6.0/11. Math operations.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/11. Math operations/obj/Debug/net6.0/11. Math operations.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/11. Math operations/obj/Debug/net6.0/11. Math operations.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/11. Math operations/obj/Debug/net6.0/refint/11. Math operations.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/11. Math operations/obj/Debug/net6.0/11. Math operations.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/11. Math operations/obj/Debug/net6.0/11. Math operations.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/11. Math operations/obj/Debug/net6.0/ref/11. Math operations.dll

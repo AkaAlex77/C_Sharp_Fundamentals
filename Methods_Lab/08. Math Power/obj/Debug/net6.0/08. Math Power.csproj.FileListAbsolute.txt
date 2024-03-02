@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/08. Math Power/bin/Debug/net6.0/08. Math Power
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/08. Math Power/bin/Debug/net6.0/08. Math Power.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/08. Math Power/bin/Debug/net6.0/08. Math Power.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/08. Math Power/bin/Debug/net6.0/08. Math Power.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/08. Math Power/bin/Debug/net6.0/08. Math Power.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/08. Math Power/obj/Debug/net6.0/08. Math Power.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/08. Math Power/obj/Debug/net6.0/08. Math Power.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/08. Math Power/obj/Debug/net6.0/08. Math Power.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/08. Math Power/obj/Debug/net6.0/08. Math Power.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/08. Math Power/obj/Debug/net6.0/08. Math Power.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/08. Math Power/obj/Debug/net6.0/08. Math Power.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/08. Math Power/obj/Debug/net6.0/refint/08. Math Power.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/08. Math Power/obj/Debug/net6.0/08. Math Power.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/08. Math Power/obj/Debug/net6.0/08. Math Power.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/08. Math Power/obj/Debug/net6.0/ref/08. Math Power.dll

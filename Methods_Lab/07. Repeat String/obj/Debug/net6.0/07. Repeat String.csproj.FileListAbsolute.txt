@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/07. Repeat String/bin/Debug/net6.0/07. Repeat String
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/07. Repeat String/bin/Debug/net6.0/07. Repeat String.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/07. Repeat String/bin/Debug/net6.0/07. Repeat String.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/07. Repeat String/bin/Debug/net6.0/07. Repeat String.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/07. Repeat String/bin/Debug/net6.0/07. Repeat String.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/07. Repeat String/obj/Debug/net6.0/07. Repeat String.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/07. Repeat String/obj/Debug/net6.0/07. Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/07. Repeat String/obj/Debug/net6.0/07. Repeat String.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/07. Repeat String/obj/Debug/net6.0/07. Repeat String.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/07. Repeat String/obj/Debug/net6.0/07. Repeat String.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/07. Repeat String/obj/Debug/net6.0/07. Repeat String.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/07. Repeat String/obj/Debug/net6.0/refint/07. Repeat String.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/07. Repeat String/obj/Debug/net6.0/07. Repeat String.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/07. Repeat String/obj/Debug/net6.0/07. Repeat String.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/07. Repeat String/obj/Debug/net6.0/ref/07. Repeat String.dll

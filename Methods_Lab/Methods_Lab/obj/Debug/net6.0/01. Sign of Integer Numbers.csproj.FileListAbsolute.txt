@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/Methods_Lab/bin/Debug/net6.0/Methods_Lab
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/Methods_Lab/bin/Debug/net6.0/Methods_Lab.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/Methods_Lab/bin/Debug/net6.0/Methods_Lab.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/Methods_Lab/bin/Debug/net6.0/Methods_Lab.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/Methods_Lab/bin/Debug/net6.0/Methods_Lab.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/Methods_Lab/obj/Debug/net6.0/01. Sign of Integer Numbers.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/Methods_Lab/obj/Debug/net6.0/01. Sign of Integer Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/Methods_Lab/obj/Debug/net6.0/01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/Methods_Lab/obj/Debug/net6.0/01. Sign of Integer Numbers.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/Methods_Lab/obj/Debug/net6.0/01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/Methods_Lab/obj/Debug/net6.0/Methods_Lab.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/Methods_Lab/obj/Debug/net6.0/refint/Methods_Lab.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/Methods_Lab/obj/Debug/net6.0/Methods_Lab.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/Methods_Lab/obj/Debug/net6.0/01. Sign of Integer Numbers.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/Methods_Lab/obj/Debug/net6.0/ref/Methods_Lab.dll

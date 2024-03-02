@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/06. Calculate Rectangle Area/bin/Debug/net6.0/06. Calculate Rectangle Area
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/06. Calculate Rectangle Area/bin/Debug/net6.0/06. Calculate Rectangle Area.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/06. Calculate Rectangle Area/bin/Debug/net6.0/06. Calculate Rectangle Area.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/06. Calculate Rectangle Area/bin/Debug/net6.0/06. Calculate Rectangle Area.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/06. Calculate Rectangle Area/bin/Debug/net6.0/06. Calculate Rectangle Area.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/06. Calculate Rectangle Area/obj/Debug/net6.0/06. Calculate Rectangle Area.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/06. Calculate Rectangle Area/obj/Debug/net6.0/06. Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/06. Calculate Rectangle Area/obj/Debug/net6.0/06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/06. Calculate Rectangle Area/obj/Debug/net6.0/06. Calculate Rectangle Area.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/06. Calculate Rectangle Area/obj/Debug/net6.0/06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/06. Calculate Rectangle Area/obj/Debug/net6.0/06. Calculate Rectangle Area.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/06. Calculate Rectangle Area/obj/Debug/net6.0/refint/06. Calculate Rectangle Area.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/06. Calculate Rectangle Area/obj/Debug/net6.0/06. Calculate Rectangle Area.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/06. Calculate Rectangle Area/obj/Debug/net6.0/06. Calculate Rectangle Area.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Lab/06. Calculate Rectangle Area/obj/Debug/net6.0/ref/06. Calculate Rectangle Area.dll
