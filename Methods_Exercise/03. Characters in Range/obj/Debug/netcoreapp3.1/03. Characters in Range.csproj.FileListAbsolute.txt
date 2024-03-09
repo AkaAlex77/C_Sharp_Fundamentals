@@ -1,0 +1,14 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/03. Characters in Range/bin/Debug/netcoreapp3.1/03. Characters in Range
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/03. Characters in Range/bin/Debug/netcoreapp3.1/03. Characters in Range.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/03. Characters in Range/bin/Debug/netcoreapp3.1/03. Characters in Range.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/03. Characters in Range/bin/Debug/netcoreapp3.1/03. Characters in Range.runtimeconfig.dev.json
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/03. Characters in Range/bin/Debug/netcoreapp3.1/03. Characters in Range.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/03. Characters in Range/bin/Debug/netcoreapp3.1/03. Characters in Range.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/03. Characters in Range/obj/Debug/netcoreapp3.1/03. Characters in Range.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/03. Characters in Range/obj/Debug/netcoreapp3.1/03. Characters in Range.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/03. Characters in Range/obj/Debug/netcoreapp3.1/03. Characters in Range.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/03. Characters in Range/obj/Debug/netcoreapp3.1/03. Characters in Range.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/03. Characters in Range/obj/Debug/netcoreapp3.1/03. Characters in Range.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/03. Characters in Range/obj/Debug/netcoreapp3.1/03. Characters in Range.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/03. Characters in Range/obj/Debug/netcoreapp3.1/03. Characters in Range.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/03. Characters in Range/obj/Debug/netcoreapp3.1/03. Characters in Range.genruntimeconfig.cache

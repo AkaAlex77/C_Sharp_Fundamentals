@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TrKyemp4wJeaDXs+fzpe9rgJ2y8KhzBj5M8Ujgx+CEOJp3MMCqPmNTfXZjGvxGiF0RSHVANY1r++cgoGvRqybg==",
+  "success": true,
+  "projectFilePath": "/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/04. Password Validator/04. Password Validator.csproj",
+  "expectedPackageFiles": [
+    "/Users/alex/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "k6CTnk3B3+b7cCJ8L/qeeglYQBEUC/2YycxHlvtyzqgywLKTUTKOMD/37vM5DciXCGHAlAE/5Sp14C/f1HxtUA==",
+  "success": true,
+  "projectFilePath": "/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/03. Characters in Range/03. Characters in Range.csproj",
+  "expectedPackageFiles": [
+    "/Users/alex/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

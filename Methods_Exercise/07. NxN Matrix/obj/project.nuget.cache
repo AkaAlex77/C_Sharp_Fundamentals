@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AWShK7ePFvVt+bnt394Y6vRyOGIYUXwv1N83zkhvHtsMY7/+Dc+A0yovr4ELXT0JWT0H2fYZeQtB+q5XVROrHw==",
+  "success": true,
+  "projectFilePath": "/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/07. NxN Matrix/07. NxN Matrix.csproj",
+  "expectedPackageFiles": [
+    "/Users/alex/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

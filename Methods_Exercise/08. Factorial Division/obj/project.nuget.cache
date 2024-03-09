@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w3fnQ2PkcYpVyrXVC4eGs13FVT4ACAQBNITnYOrZqYdgTMyZfl1U7sXtw5LQF5MoJS0eLqHoTrjplOes/iVb0w==",
+  "success": true,
+  "projectFilePath": "/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/08. Factorial Division/08. Factorial Division.csproj",
+  "expectedPackageFiles": [
+    "/Users/alex/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QNdHhtXVVUik74ieUUhN5yLN+2tP4QKLxESRkLQTqlz16dSls327COgXGVNNLBn3zuEGeUgNDtC+VB25OZv6Eg==",
+  "success": true,
+  "projectFilePath": "/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/06. Middle Characters/06. Middle Characters.csproj",
+  "expectedPackageFiles": [
+    "/Users/alex/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/Methods_Exercise/bin/Debug/netcoreapp3.1/Methods_Exercise
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/Methods_Exercise/bin/Debug/netcoreapp3.1/Methods_Exercise.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/Methods_Exercise/bin/Debug/netcoreapp3.1/Methods_Exercise.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/Methods_Exercise/bin/Debug/netcoreapp3.1/Methods_Exercise.runtimeconfig.dev.json
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/Methods_Exercise/bin/Debug/netcoreapp3.1/Methods_Exercise.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/Methods_Exercise/bin/Debug/netcoreapp3.1/Methods_Exercise.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/Methods_Exercise/obj/Debug/netcoreapp3.1/01. Smallest of Three Numbers.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/Methods_Exercise/obj/Debug/netcoreapp3.1/01. Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/Methods_Exercise/obj/Debug/netcoreapp3.1/01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/Methods_Exercise/obj/Debug/netcoreapp3.1/01. Smallest of Three Numbers.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/Methods_Exercise/obj/Debug/netcoreapp3.1/01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/Methods_Exercise/obj/Debug/netcoreapp3.1/Methods_Exercise.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/Methods_Exercise/obj/Debug/netcoreapp3.1/Methods_Exercise.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Methods_Exercise/Methods_Exercise/obj/Debug/netcoreapp3.1/01. Smallest of Three Numbers.genruntimeconfig.cache
