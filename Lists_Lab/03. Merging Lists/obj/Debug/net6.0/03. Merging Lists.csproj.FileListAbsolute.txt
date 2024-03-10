@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/03. Merging Lists/obj/Debug/net6.0/03. Merging Lists.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/03. Merging Lists/obj/Debug/net6.0/03. Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/03. Merging Lists/obj/Debug/net6.0/03. Merging Lists.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/03. Merging Lists/obj/Debug/net6.0/03. Merging Lists.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/03. Merging Lists/obj/Debug/net6.0/03. Merging Lists.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/03. Merging Lists/bin/Debug/net6.0/03. Merging Lists
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/03. Merging Lists/bin/Debug/net6.0/03. Merging Lists.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/03. Merging Lists/bin/Debug/net6.0/03. Merging Lists.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/03. Merging Lists/bin/Debug/net6.0/03. Merging Lists.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/03. Merging Lists/bin/Debug/net6.0/03. Merging Lists.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/03. Merging Lists/obj/Debug/net6.0/03. Merging Lists.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/03. Merging Lists/obj/Debug/net6.0/refint/03. Merging Lists.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/03. Merging Lists/obj/Debug/net6.0/03. Merging Lists.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/03. Merging Lists/obj/Debug/net6.0/03. Merging Lists.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/03. Merging Lists/obj/Debug/net6.0/ref/03. Merging Lists.dll

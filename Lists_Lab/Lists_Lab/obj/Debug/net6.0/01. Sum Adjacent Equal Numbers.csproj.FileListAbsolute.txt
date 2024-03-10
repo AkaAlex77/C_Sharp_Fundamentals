@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/Lists_Lab/bin/Debug/net6.0/Lists_Lab
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/Lists_Lab/bin/Debug/net6.0/Lists_Lab.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/Lists_Lab/bin/Debug/net6.0/Lists_Lab.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/Lists_Lab/bin/Debug/net6.0/Lists_Lab.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/Lists_Lab/bin/Debug/net6.0/Lists_Lab.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/Lists_Lab/obj/Debug/net6.0/01. Sum Adjacent Equal Numbers.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/Lists_Lab/obj/Debug/net6.0/01. Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/Lists_Lab/obj/Debug/net6.0/01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/Lists_Lab/obj/Debug/net6.0/01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/Lists_Lab/obj/Debug/net6.0/01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/Lists_Lab/obj/Debug/net6.0/Lists_Lab.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/Lists_Lab/obj/Debug/net6.0/refint/Lists_Lab.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/Lists_Lab/obj/Debug/net6.0/Lists_Lab.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/Lists_Lab/obj/Debug/net6.0/01. Sum Adjacent Equal Numbers.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/Lists_Lab/obj/Debug/net6.0/ref/Lists_Lab.dll

@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/05. Remove Negatives and Reverse/bin/Debug/net6.0/05. Remove Negatives and Reverse
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/05. Remove Negatives and Reverse/bin/Debug/net6.0/05. Remove Negatives and Reverse.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/05. Remove Negatives and Reverse/bin/Debug/net6.0/05. Remove Negatives and Reverse.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/05. Remove Negatives and Reverse/bin/Debug/net6.0/05. Remove Negatives and Reverse.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/05. Remove Negatives and Reverse/bin/Debug/net6.0/05. Remove Negatives and Reverse.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/05. Remove Negatives and Reverse/obj/Debug/net6.0/05. Remove Negatives and Reverse.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/05. Remove Negatives and Reverse/obj/Debug/net6.0/05. Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/05. Remove Negatives and Reverse/obj/Debug/net6.0/05. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/05. Remove Negatives and Reverse/obj/Debug/net6.0/05. Remove Negatives and Reverse.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/05. Remove Negatives and Reverse/obj/Debug/net6.0/05. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/05. Remove Negatives and Reverse/obj/Debug/net6.0/05. Remove Negatives and Reverse.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/05. Remove Negatives and Reverse/obj/Debug/net6.0/refint/05. Remove Negatives and Reverse.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/05. Remove Negatives and Reverse/obj/Debug/net6.0/05. Remove Negatives and Reverse.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/05. Remove Negatives and Reverse/obj/Debug/net6.0/05. Remove Negatives and Reverse.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/05. Remove Negatives and Reverse/obj/Debug/net6.0/ref/05. Remove Negatives and Reverse.dll

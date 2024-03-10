@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/06. List Manipulation Basics/bin/Debug/net6.0/06. List Manipulation Basics
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/06. List Manipulation Basics/bin/Debug/net6.0/06. List Manipulation Basics.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/06. List Manipulation Basics/bin/Debug/net6.0/06. List Manipulation Basics.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/06. List Manipulation Basics/bin/Debug/net6.0/06. List Manipulation Basics.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/06. List Manipulation Basics/bin/Debug/net6.0/06. List Manipulation Basics.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/06. List Manipulation Basics/obj/Debug/net6.0/06. List Manipulation Basics.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/06. List Manipulation Basics/obj/Debug/net6.0/06. List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/06. List Manipulation Basics/obj/Debug/net6.0/06. List Manipulation Basics.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/06. List Manipulation Basics/obj/Debug/net6.0/06. List Manipulation Basics.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/06. List Manipulation Basics/obj/Debug/net6.0/06. List Manipulation Basics.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/06. List Manipulation Basics/obj/Debug/net6.0/06. List Manipulation Basics.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/06. List Manipulation Basics/obj/Debug/net6.0/refint/06. List Manipulation Basics.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/06. List Manipulation Basics/obj/Debug/net6.0/06. List Manipulation Basics.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/06. List Manipulation Basics/obj/Debug/net6.0/06. List Manipulation Basics.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists - Lab/Lists_Lab/06. List Manipulation Basics/obj/Debug/net6.0/ref/06. List Manipulation Basics.dll
