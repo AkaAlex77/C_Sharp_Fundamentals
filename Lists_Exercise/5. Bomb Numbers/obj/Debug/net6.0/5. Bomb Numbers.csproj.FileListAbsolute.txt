@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni Fondamentals/Lists_Exercise/5. Bomb Numbers/bin/Debug/net6.0/5. Bomb Numbers
+/Users/alex/Desktop/SoftUni Fondamentals/Lists_Exercise/5. Bomb Numbers/bin/Debug/net6.0/5. Bomb Numbers.deps.json
+/Users/alex/Desktop/SoftUni Fondamentals/Lists_Exercise/5. Bomb Numbers/bin/Debug/net6.0/5. Bomb Numbers.runtimeconfig.json
+/Users/alex/Desktop/SoftUni Fondamentals/Lists_Exercise/5. Bomb Numbers/bin/Debug/net6.0/5. Bomb Numbers.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Lists_Exercise/5. Bomb Numbers/bin/Debug/net6.0/5. Bomb Numbers.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Lists_Exercise/5. Bomb Numbers/obj/Debug/net6.0/5. Bomb Numbers.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists_Exercise/5. Bomb Numbers/obj/Debug/net6.0/5. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni Fondamentals/Lists_Exercise/5. Bomb Numbers/obj/Debug/net6.0/5. Bomb Numbers.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists_Exercise/5. Bomb Numbers/obj/Debug/net6.0/5. Bomb Numbers.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni Fondamentals/Lists_Exercise/5. Bomb Numbers/obj/Debug/net6.0/5. Bomb Numbers.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists_Exercise/5. Bomb Numbers/obj/Debug/net6.0/5. Bomb Numbers.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Lists_Exercise/5. Bomb Numbers/obj/Debug/net6.0/refint/5. Bomb Numbers.dll
+/Users/alex/Desktop/SoftUni Fondamentals/Lists_Exercise/5. Bomb Numbers/obj/Debug/net6.0/5. Bomb Numbers.pdb
+/Users/alex/Desktop/SoftUni Fondamentals/Lists_Exercise/5. Bomb Numbers/obj/Debug/net6.0/5. Bomb Numbers.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni Fondamentals/Lists_Exercise/5. Bomb Numbers/obj/Debug/net6.0/ref/5. Bomb Numbers.dll
